@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguiv\\OneDrive\\Escritorio\\ESCUELA\\TiendaMicroservicio.Api.Libro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7389C3DC-DCDF-4950-A9A0-1E0EA86D13C3}|TiendaMicroservicio.Api.Libro\\TiendaMicroservicio.Api.Libro.csproj|c:\\users\\aguiv\\onedrive\\escritorio\\escuela\\tiendamicroservicio.api.libro\\tiendamicroservicio.api.libro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7389C3DC-DCDF-4950-A9A0-1E0EA86D13C3}|TiendaMicroservicio.Api.Libro\\TiendaMicroservicio.Api.Libro.csproj|solutionrelative:tiendamicroservicio.api.libro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aguiv\\OneDrive\\Escritorio\\ESCUELA\\TiendaMicroservicio.Api.Libro\\TiendaMicroservicio.Api.Libro\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaMicroservicio.Api.Libro\\appsettings.json",
+              "ToolTip": "C:\\Users\\aguiv\\OneDrive\\Escritorio\\ESCUELA\\TiendaMicroservicio.Api.Libro\\TiendaMicroservicio.Api.Libro\\appsettings.json",
+              "RelativeToolTip": "TiendaMicroservicio.Api.Libro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T18:13:36.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

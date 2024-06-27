@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uKBYvRaOaI54rgrKlUnxkRI6jTKWj6vFLZqft5IhUZk=",
+  "Source": "TiendaMicroservicio.Api.Libro",
+  "BasePath": "_content/TiendaMicroservicio.Api.Libro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

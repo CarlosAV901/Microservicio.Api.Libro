@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TiendaMicroservicio.Api.Libro.props" />
+</Project>
